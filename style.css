@@ -1,0 +1,51 @@
+body {
+  font-family: "Nunito", serif;
+  font-weight: 500;
+  border: solid 2px black;
+  border-radius: 2px;
+}
+
+main {
+  padding: 30px 30px;
+}
+
+h1,h2,h3 {
+  text-transform: capitalize;
+}
+
+h1 {
+  padding-top: 10px;
+  border-top: 2px solid black;
+  border-radius: 2px;
+  width: 80%;
+
+}
+
+h2 {
+  color: green;
+  font-size: 20px;
+  margin: 0px 0px 5px 0px;
+}
+h3 {
+  color: dodgerblue;
+  font-size: 22px;
+  margin: 0;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+}
+
+.skills {
+  text-transform: capitalize;
+}
+
+.dates {
+  text-transform: capitalize;
+  margin-top: 0;
+}
